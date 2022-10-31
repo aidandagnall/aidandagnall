@@ -12,8 +12,8 @@ I found it difficult to keep track of which labs were when, and I wanted an easy
 I could know what rooms to avoid and when. After I gained some knowledge about Flutter, I decided to
 finally start making the app for myself.
 
-Some interest grew amongst students, and I am now in the process of receiving approval from the school
-for it to be used and made available to students on the Google Play and iOS App stores.
+Some interest grew amongst students, and the app is now available on [iOS](https://apps.apple.com/gb/app/lab-monitor/id6443952035)
+and [Android](https://play.google.com/store/apps/details?id=com.aidandagnall.lab_monitor)!
 
 It's expanded from a small lab calendar, to now include live user reports for when rooms are busy at
 unexpected times, and as a way for students and staff to submit issues with equipment through the app
