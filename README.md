@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-I'm Aidan (he/him). Currently in my 4th (and final) year at the University of Nottingham, studying for my MSci Computer Science degree.
+I'm Aidan (he/him), a Gradudate Software Engineer at [Wise](https://wise.com) working towards money without borders.
 
 ### 🔭 I’m currently working on ...
 
+Dynamic Flow @ Wise!
+
+### 📆 What I've worked on in the past ...
+
 #### **Lab Monitor**!
+
+**Currently out of action. Please reach out if you'd like to use Lab Monitor as a base for
+your own projects, or to revive it at UoN!**
 
 A project which started from a personal problem of mine from a year ago.
 As teaching moved back to in person, the lab spaces in the CS department were often booked for teaching.
@@ -19,24 +26,13 @@ It's expanded from a small lab calendar, to now include live user reports for wh
 unexpected times, and as a way for students and staff to submit issues with equipment through the app
 via QR location codes.
 
-### 🌱 I’m currently learning ...
-
-**Flutter** for app development, but would love to do more work on native Android
-
-**Ktor**, to scratch my Kotlin itch while working on Lab Monitor, with the **Exposed** framework to interface
-with the database.
-
-### 🤔 I’m looking for help with ...
-
-UI/UX Designs!
-
 ### 👀 I'm looking forward to ...
 
 #### **Advent of Code** 🎄
 
-A highlight of the year for me! Competing in the UoN CS Leaderboard and discussing solutions (after we've solved them...)
-is always fun, and I always end up learning a lot about whichever languages I use (previously C, Python, and Kotlin!)
-
+Coming up to my first AoC as a non-student, I fear the 5am GMT starts may not be possible any longer. That being said,
+I am obviously still looking forward to competing and discussing solutions again in December. With less free time,
+completing all 25 days by Christmas may not be on the cards - but I will certainly try.
 
 <!--
 **aidandagnall/aidandagnall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
