@@ -1,17 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Aidan (he/him), a Gradudate Software Engineer at [Wise](https://wise.com) working towards money without borders.
 
-### 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
-Dynamic Flow @ Wise!
+### 🌊 Dynamic Flow @ Wise!
 
-### 📆 What I've worked on in the past ...
+## 📆 What I've worked on in the past ...
 
-#### **Lab Monitor**!
+### 🖥️ **Lab Monitor**
 
-**Currently out of action. Please reach out if you'd like to use Lab Monitor as a base for
-your own projects, or to revive it at UoN!**
+*Currently out of action. Please reach out if you'd like to use Lab Monitor as a base for
+your own projects, or to revive it at UoN!*
 
 A project which started from a personal problem of mine from a year ago.
 As teaching moved back to in person, the lab spaces in the CS department were often booked for teaching.
@@ -26,9 +26,9 @@ It's expanded from a small lab calendar, to now include live user reports for wh
 unexpected times, and as a way for students and staff to submit issues with equipment through the app
 via QR location codes.
 
-### 👀 I'm looking forward to ...
+## 👀 I'm looking forward to ...
 
-#### **Advent of Code** 🎄
+### **Advent of Code** 🎄
 
 Coming up to my first AoC as a non-student, I fear the 5am GMT starts may not be possible any longer. That being said,
 I am obviously still looking forward to competing and discussing solutions again in December. With less free time,
