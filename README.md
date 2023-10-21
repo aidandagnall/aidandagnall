@@ -30,9 +30,7 @@ via QR location codes.
 
 ### **Advent of Code** 🎄
 
-Coming up to my first AoC as a non-student, I fear the 5am GMT starts may not be possible any longer. That being said,
-I am obviously still looking forward to competing and discussing solutions again in December. With less free time,
-completing all 25 days by Christmas may not be on the cards - but I will certainly try.
+Every December, 25 puzzles are released on the build up the Christmas, and it's always something I'm looking forward to. I've been attempting it since 2019, and completed from 2020 onwards. Find my solutions [here](/advent)!
 
 <!--
 **aidandagnall/aidandagnall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
