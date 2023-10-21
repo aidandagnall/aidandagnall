@@ -30,7 +30,7 @@ via QR location codes.
 
 ### **Advent of Code** 🎄
 
-Every December, 25 puzzles are released on the build up the Christmas, and it's always something I'm looking forward to. I've been attempting it since 2019, and completed from 2020 onwards. Find my solutions [here](/advent)!
+Every December, 25 puzzles are released on the build up the Christmas, and it's always something I'm looking forward to. I've been attempting it since 2019, and completed from 2020 onwards. Find my solutions [here](https://github.com/aidandagnall/advent)!
 
 <!--
 **aidandagnall/aidandagnall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
